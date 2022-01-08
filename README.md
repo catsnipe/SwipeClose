@@ -18,4 +18,4 @@ Input System(package)
 1. Attach '**SwipeClose**' to any UI.  
 2. Set member '**CloseVector**'.  
 3. '**Scenes/SampleScene.unity**' provides the same scene as the video.  
-
+4. OnClosing, OnClosed, SwipeChanged are events to cooperate with other UIs when swiping.
