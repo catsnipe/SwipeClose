@@ -17,5 +17,5 @@ Input System(package)
 ## usage  
 1. Attach '**SwipeClose**' to any UI.  
 2. Set member '**CloseVector**'.  
-
+3. '**Scenes/SampleScene.unity**' provides the same scene as the video.  
 
