@@ -8,7 +8,7 @@ https://github.com/catsnipe/Padd
 https://github.com/catsnipe/SimpleUIEase  
   
 * 日本語の説明は Blog を参照してください  
-see more detail (japanese): https://www.create-forever.games/swipe-window-change/  
+https://www.create-forever.games/swipe-window-change/  
   
 ## requirement
 unity2019 or later  
